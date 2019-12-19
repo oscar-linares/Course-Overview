@@ -1,1 +1,1 @@
-{"students": {"Kate": {"grades": [93]}, "Harry": {"grades": [93]}, "Linda": {"grades": [87]}, "Harriet": {"grades": [91]}, "John": {"grades": [88]}}}
+{"students": {"Harriet": {"grade": 91}, "John": {"grade": 88}, "Kate": {"grade": 93}, "Linda": {"grade": 87}, "Harry": {"grade": 93}}}
